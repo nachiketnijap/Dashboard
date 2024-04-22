@@ -1,0 +1,25 @@
+.poster-container{
+  margin-left: 200px;
+
+}
+
+.poster{ 
+  margin-top: 100px;
+  height: 50px;
+  background-color:rgb(247, 244, 70);
+}
+
+.bar-2{
+  background-color: gray;
+  height: 100px;
+  display: flex;
+
+
+}
+
+
+
+
+
+
+

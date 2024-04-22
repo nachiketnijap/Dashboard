@@ -1,0 +1,17 @@
+.height-sidebar{
+  height: 100%;
+  position: fixed;
+
+}
+.width-sidebar{
+  width: 200px;
+  z-index: 1;
+}
+
+.sidebar-hover:hover{
+  background-color: rgb(78, 78, 76)
+}
+.active-bar{
+  background-color: rgb(78, 78, 76)
+}
+
